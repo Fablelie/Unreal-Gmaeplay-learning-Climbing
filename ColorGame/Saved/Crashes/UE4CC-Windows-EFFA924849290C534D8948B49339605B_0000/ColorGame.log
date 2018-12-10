@@ -1,0 +1,1213 @@
+﻿Log file open, 12/09/18 20:24:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ColorGame
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.327170
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.167s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 520
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/UnrealEngine/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Admin/Documents/Unreal Projects/ColorGame/Saved/Config/Windows/Engine.ini]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Admin/Documents/Unreal Projects/ColorGame/Saved/Config/Windows/Engine.ini]
+[2018.12.09-13.24.28:901][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Admin/Documents/Unreal Projects/ColorGame/Saved/Config/Windows/Engine.ini]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Admin/Documents/Unreal Projects/ColorGame/Saved/Config/Windows/Engine.ini]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.09-13.24.28:901][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Admin/Documents/Unreal Projects/ColorGame/Saved/Config/Windows/Engine.ini]
+[2018.12.09-13.24.28:901][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Admin/Documents/Unreal Projects/ColorGame/Saved/Config/Windows/Engine.ini]
+[2018.12.09-13.24.28:903][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/ColorGame/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-13.24.28:903][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.09-13.24.28:903][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.09-13.24.28:903][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/ColorGame/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-13.24.28:903][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.09-13.24.28:903][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/ColorGame/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-13.24.28:903][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.09-13.24.28:903][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.09-13.24.28:903][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.09-13.24.28:903][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.09-13.24.28:903][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.09-13.24.28:903][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/ColorGame/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/ColorGame/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/ColorGame/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/ColorGame/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.09-13.24.28:904][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.09-13.24.28:904][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.09-13.24.28:904][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.09-13.24.28:948][  0]LogHAL: Display: Platform has ~ 12 GB [12736798720 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.09-13.24.28:948][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.09-13.24.28:948][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.09-13.24.28:948][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/ColorGame/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-13.24.28:948][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.09-13.24.28:948][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.09-13.24.28:948][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/ColorGame/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-13.24.28:948][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.09-13.24.28:948][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/ColorGame/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-13.24.28:948][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.09-13.24.28:948][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.09-13.24.28:948][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.09-13.24.28:948][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.09-13.24.28:948][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.09-13.24.28:948][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/ColorGame/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/ColorGame/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/ColorGame/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/ColorGame/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.09-13.24.28:949][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.09-13.24.28:955][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.09-13.24.28:956][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Admin/Documents/Unreal Projects/ColorGame/Saved/Config/Windows/Engine.ini]
+[2018.12.09-13.24.28:956][  0]LogInit: Computer: ZULA
+[2018.12.09-13.24.28:956][  0]LogInit: User: Admin
+[2018.12.09-13.24.28:956][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.12.09-13.24.28:956][  0]LogInit: High frequency timer resolution =2.531251 MHz
+[2018.12.09-13.24.28:956][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2018.12.09-13.24.28:956][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.09-13.24.28:956][  0]LogMemory: Process Physical Memory: 102.00 MB used, 102.00 MB peak
+[2018.12.09-13.24.28:956][  0]LogMemory: Process Virtual Memory: 84.32 MB used, 84.32 MB peak
+[2018.12.09-13.24.28:956][  0]LogMemory: Physical Memory: 4597.43 MB used,  7549.33 MB free, 12146.76 MB total
+[2018.12.09-13.24.28:956][  0]LogMemory: Virtual Memory: 4628.92 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2018.12.09-13.24.29:224][  0]LogInit: Using OS detected language (en-US).
+[2018.12.09-13.24.29:224][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.09-13.24.29:228][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.09-13.24.29:860][  0]LogStreaming: Display: Took  0.636s to InitEngineTextLocalization.
+[2018.12.09-13.24.29:861][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.09-13.24.29:995][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.09-13.24.29:995][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.09-13.24.34:602][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.09-13.24.34:602][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.09-13.24.35:022][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R7 M360' (Feature Level 11_0)
+[2018.12.09-13.24.35:022][  0]LogD3D11RHI:       2035/0/6073 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.12.09-13.24.35:033][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2018.12.09-13.24.35:033][  0]LogD3D11RHI:       128/0/6073 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.12.09-13.24.35:035][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.09-13.24.35:035][  0]LogD3D11RHI:       0/0/6073 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.09-13.24.35:035][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.09-13.24.35:045][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.09-13.24.35:045][  0]LogD3D11RHI:     GPU DeviceId: 0x6900 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.09-13.24.35:045][  0]LogWindows: EnumDisplayDevices:
+[2018.12.09-13.24.35:045][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2018.12.09-13.24.35:046][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.12.09-13.24.35:046][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.12.09-13.24.35:046][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.12.09-13.24.35:046][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R7 M360
+[2018.12.09-13.24.35:046][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.12.09-13.24.35:046][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.12.09-13.24.35:046][  0]LogRHI: Texture pool is 1424 MB (70% of 2035 MB)
+[2018.12.09-13.24.35:286][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.09-13.24.35:302][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.12.09-13.24.36:114][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.09-13.24.36:155][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.09-13.24.36:201][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.09-13.24.36:249][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.09-13.24.36:302][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.09-13.24.36:348][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.09-13.24.36:385][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.09-13.24.36:428][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.09-13.24.36:457][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.09-13.24.36:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-13.24.36:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-13.24.36:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-13.24.36:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-13.24.36:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-13.24.36:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-13.24.36:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-13.24.36:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-13.24.36:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-13.24.36:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-13.24.36:607][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-13.24.36:607][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-13.24.36:607][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-13.24.36:607][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-13.24.36:607][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-13.24.36:607][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-13.24.36:607][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-13.24.36:607][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-13.24.36:629][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.09-13.24.36:777][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.09-13.24.36:777][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.09-13.24.36:831][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.09-13.24.36:831][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.09-13.24.36:866][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.09-13.24.36:904][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.09-13.24.36:945][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.09-13.24.36:997][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.09-13.24.37:093][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.09-13.24.37:093][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.09-13.24.37:093][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.09-13.24.37:660][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (C:/Users/Admin/Documents/Unreal Projects/ColorGame/Intermediate/Shaders/WorkingDirectory/9604/).
+[2018.12.09-13.24.37:661][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Admin/AppData/Local/Temp/UnrealShaderWorkingDir/03C0E50A4632A2F8E9F91B8F7D0A5157/'.
+[2018.12.09-13.24.37:663][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.09-13.24.37:663][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.09-13.24.37:663][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.09-13.24.40:932][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.09-13.24.41:012][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/Admin/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.09-13.24.41:012][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Admin/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.09-13.24.41:012][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Admin/Documents/Unreal Projects/ColorGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.09-13.24.41:012][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.09-13.24.41:012][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Admin/Documents/Unreal Projects/ColorGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.09-13.24.41:012][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.09-13.24.41:039][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.09-13.24.41:040][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.09-13.24.41:040][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.09-13.24.41:054][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.09-13.24.41:054][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.09-13.24.41:054][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.09-13.24.41:095][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.09-13.24.41:097][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.09-13.24.41:129][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.09-13.24.41:487][  0]LogAssetRegistry: FAssetRegistry took 0.0398 seconds to start up
+[2018.12.09-13.24.42:097][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.09-13.24.42:682][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.09-13.24.42:735][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.09-13.24.42:735][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.09-13.24.42:735][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.09-13.24.42:735][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.09-13.24.42:798][  0]LogNetVersion: ColorGame 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 262351653)
+[2018.12.09-13.24.44:560][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.197350 seconds
+[2018.12.09-13.24.44:574][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.09-13.24.44:574][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2018.12.09-13.24.44:574][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.09-13.24.49:740][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.09-13.24.49:781][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.09-13.24.51:342][  0]SourceControl: Source control is disabled
+[2018.12.09-13.24.51:342][  0]SourceControl: Source control is disabled
+[2018.12.09-13.24.51:367][  0]SourceControl: Source control is disabled
+[2018.12.09-13.24.51:391][  0]SourceControl: Source control is disabled
+[2018.12.09-13.24.52:411][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.09-13.24.52:629][  0]LogOcInput: OculusInput pre-init called
+[2018.12.09-13.24.52:979][  0]LogEngine: Initializing Engine...
+[2018.12.09-13.24.52:979][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.09-13.24.52:980][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.09-13.24.52:981][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.09-13.24.52:981][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.09-13.24.52:981][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.09-13.24.53:649][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.09-13.24.53:702][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.09-13.24.53:715][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-13.24.53:744][  0]LogInit: FAudioDevice initialized.
+[2018.12.09-13.24.53:744][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.09-13.24.53:844][  0]LogDerivedDataCache: Saved boot cache 0.10s 71MB C:/Users/Admin/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.09-13.24.53:862][  0]LogInit: Texture streaming: Enabled
+[2018.12.09-13.24.53:981][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.09-13.24.54:023][  0]LogInit: Transaction tracking system initialized
+[2018.12.09-13.24.54:165][  0]BlueprintLog: New page: Editor Load
+[2018.12.09-13.24.54:744][  0]LocalizationService: Localization service is disabled
+[2018.12.09-13.24.56:321][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin/Documents/Unreal Projects/ColorGame/Content/' took 0.02s
+[2018.12.09-13.24.56:321][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.09-13.24.56:321][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.09-13.24.56:321][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.09-13.24.56:321][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.09-13.24.56:321][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.09-13.24.56:321][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.09-13.24.56:321][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.09-13.24.57:249][  0]SourceControl: Source control is disabled
+[2018.12.09-13.24.57:249][  0]Cmd: MAP LOAD FILE="C:/Users/Admin/Documents/Unreal Projects/ColorGame/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.09-13.24.57:269][  0]LightingResults: New page: Lighting Build
+[2018.12.09-13.24.57:274][  0]MapCheck: New page: Map Check
+[2018.12.09-13.24.57:274][  0]LightingResults: New page: Lighting Build
+[2018.12.09-13.24.58:727][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.12.09-13.24.58:749][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.12.09-13.24.58:801][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.09-13.24.58:802][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.814ms to complete.
+[2018.12.09-13.24.58:802][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 1.553
+[2018.12.09-13.24.59:060][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-13.24.59:074][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-13.24.59:087][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-13.24.59:097][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-13.24.59:177][  0]LogCollectionManager: Loaded 0 collections in 0.002088 seconds
+[2018.12.09-13.24.59:195][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin/Documents/Unreal Projects/ColorGame/Saved/Collections/' took 0.01s
+[2018.12.09-13.24.59:195][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin/Documents/Unreal Projects/ColorGame/Content/Developers/Admin/Collections/' took 0.00s
+[2018.12.09-13.24.59:195][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin/Documents/Unreal Projects/ColorGame/Content/Collections/' took 0.00s
+[2018.12.09-13.24.59:195][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.09-13.24.59:210][  0]LogContentBrowser: Native class hierarchy populated in 0.0149 seconds. Added 2651 classes and 620 folders.
+[2018.12.09-13.24.59:219][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2018.12.09-13.24.59:275][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-13.24.59:312][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-13.24.59:356][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-13.24.59:376][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-13.24.59:399][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-13.24.59:426][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-13.24.59:445][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-13.24.59:456][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-13.24.59:481][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-13.24.59:496][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-13.24.59:527][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-13.24.59:548][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-13.24.59:572][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-13.24.59:580][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-13.24.59:591][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-13.24.59:610][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-13.24.59:678][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-13.24.59:691][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-13.24.59:699][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-13.24.59:715][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-13.24.59:791][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-13.24.59:810][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-13.24.59:828][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-13.24.59:848][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-13.24.59:872][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-13.24.59:879][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-13.25.01:626][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.09-13.25.01:680][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.12.09-13.25.01:865][  0]LogSlate: Took 0.006299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.09-13.25.01:878][  0]LogSlate: Took 0.007876 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.09-13.25.01:909][  0]LogSlate: Took 0.021707 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.09-13.25.02:273][  0]LogRenderer: Reallocating scene render targets to support 1208x740 Format 10 NumSamples 1 (Frame:1).
+[2018.12.09-13.25.03:354][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.09-13.25.03:354][  0]LogLoad: (Engine Initialization) Total time: 39.72 seconds
+[2018.12.09-13.25.03:354][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.09-13.25.03:364][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.09-13.25.03:434][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.09-13.25.03:472][  0]LogSlate: Took 0.026491 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.09-13.25.03:580][  2]LogAssetRegistry: Asset discovery search completed in 22.1148 seconds
+[2018.12.09-13.25.03:585][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.09-13.25.03:585][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000088 seconds (updated 0 objects)
+[2018.12.09-13.29.47:314][984]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2018.12.09-13.29.47:730][985]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2018.12.09-13.29.47:980][986]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2018.12.09-13.29.50:442][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-13.29.52:696][ 64]LogSlate: Took 0.000364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.09-13.29.52:703][ 64]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2018.12.09-13.29.54:069][ 64]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
+[2018.12.09-13.29.55:846][ 64]LogSlate: Took 0.030311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.09-13.29.56:099][ 65]LogSlate: Took 0.019655 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.09-13.30.03:117][216]LogSlate: Window 'SideScrollerCharacter' being destroyed
+[2018.12.09-13.32.59:908][ 24]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.ColorGame
+[2018.12.09-13.32.59:908][ 24]LogTemp: CWD: D:\Program Files\UnrealEngine\UE_4.21\Engine\Binaries\DotNET\IOS
+[2018.12.09-13.32.59:908][ 24]LogTemp: Initial Dir: D:\Program Files\UnrealEngine\UE_4.21
+[2018.12.09-13.32.59:908][ 24]LogTemp: Env CWD: D:\Program Files\UnrealEngine\UE_4.21\Engine\Binaries\DotNET\IOS
+[2018.12.09-13.32.59:908][ 24]LogTemp: BranchPath = ZULA/D/Program Files/UnrealEngine/UE_4.21/Engine/Binaries --- GameBranchPath = ZULA/D/Program Files/UnrealEngine/UE_4.21/Engine/Binaries
+[2018.12.09-13.32.59:908][ 24]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Admin\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.12.09-13.32.59:908][ 24]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.12.09-13.33.03:227][ 96]LogSlate: Window 'Project Settings' being destroyed
+[2018.12.09-13.34.28:783][516]LogSlate: Window 'New Channel' being destroyed
+[2018.12.09-13.34.54:396][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge7)
+[2018.12.09-13.34.56:285][ 53]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ledge8)
+[2018.12.09-13.34.58:203][ 93]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ledge9)
+[2018.12.09-13.34.59:331][117]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ledge4)
+[2018.12.09-13.35.00:330][137]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ledge3)
+[2018.12.09-13.35.01:633][163]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ledge1)
+[2018.12.09-13.35.02:483][180]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ledge2)
+[2018.12.09-13.35.03:381][199]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (33.991 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.12.09-13.35.03:988][211]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ledge5)
+[2018.12.09-13.35.05:456][241]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ledge6)
+[2018.12.09-13.35.18:989][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-13.36.24:933][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge9)
+[2018.12.09-13.36.27:714][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-13.36.28:020][145]LogActorFactory: Actor Factory created Cube
+[2018.12.09-13.36.29:123][164]LogActorFactory: Actor Factory created Cube
+[2018.12.09-13.36.32:933][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-13.36.50:672][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.12.09-13.36.51:297][652]Cmd: DELETE
+[2018.12.09-13.36.51:297][652]Cmd: ACTOR DELETE
+[2018.12.09-13.36.51:670][652]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.09-13.36.51:729][652]LogEditorActor: Deleted 1 Actors (0.115 secs)
+[2018.12.09-13.36.54:022][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-13.37.56:038][881]LogSavePackage: Moving 'C:/Users/Admin/Documents/Unreal Projects/ColorGame/Saved/SideScrollerExampleMap5943328B48E4B7B9D9F14D90BCB651D3.tmp' to 'C:/Users/Admin/Documents/Unreal Projects/ColorGame/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2018.12.09-13.37.57:365][881]LogSavePackage: Moving 'C:/Users/Admin/Documents/Unreal Projects/ColorGame/Saved/SideScrollerExampleMap_BuiltDataA58831D54799803ED598DA8F8CCF3BAA.tmp' to 'C:/Users/Admin/Documents/Unreal Projects/ColorGame/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2018.12.09-13.40.40:586][ 22]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::SphereTraceSingle' [Element not found.]
+[2018.12.09-13.40.41:116][ 80]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::SphereTraceSingle' [Element not found.]
+[2018.12.09-13.45.50:878][450]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.12.09-13.45.51:269][450]LogUObjectGlobals: Warning: Guid referenced by CapsuleComponent /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerCharacter_78.CollisionCylinder is already used by CapsuleComponent /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.REINST_SideScrollerCharacter_C_0.CollisionCylinder, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2018.12.09-13.45.51:269][450]LogUObjectGlobals: Warning: Guid referenced by ArrowComponent /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerCharacter_78.Arrow is already used by ArrowComponent /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.REINST_SideScrollerCharacter_C_0.Arrow, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2018.12.09-13.45.51:270][450]LogUObjectGlobals: Warning: Guid referenced by CharacterMovementComponent /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerCharacter_78.CharMoveComp is already used by CharacterMovementComponent /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.REINST_SideScrollerCharacter_C_0.CharMoveComp, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2018.12.09-13.45.51:270][450]LogUObjectGlobals: Warning: Guid referenced by SkeletalMeshComponent /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerCharacter_78.CharacterMesh0 is already used by SkeletalMeshComponent /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.REINST_SideScrollerCharacter_C_0.CharacterMesh0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2018.12.09-13.45.53:474][617]LogSavePackage: Moving 'C:/Users/Admin/Documents/Unreal Projects/ColorGame/Saved/SideScrollerCharacter247BCF0845B5405099B6AE86DC9F5C12.tmp' to 'C:/Users/Admin/Documents/Unreal Projects/ColorGame/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2018.12.09-13.47.07:754][904]LogSavePackage: Moving 'C:/Users/Admin/Documents/Unreal Projects/ColorGame/Saved/SideScrollerCharacterADB7E87C4D5007A4457AA8B6C9B09022.tmp' to 'C:/Users/Admin/Documents/Unreal Projects/ColorGame/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2018.12.09-13.47.27:287][830]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.12.09-13.48.27:156][791]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.12.09-13.48.27:327][796]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.ColorGame
+[2018.12.09-13.48.27:327][796]LogTemp: CWD: D:\Program Files\UnrealEngine\UE_4.21\Engine\Binaries\DotNET\IOS
+[2018.12.09-13.48.27:327][796]LogTemp: Initial Dir: D:\Program Files\UnrealEngine\UE_4.21
+[2018.12.09-13.48.27:327][796]LogTemp: Env CWD: D:\Program Files\UnrealEngine\UE_4.21\Engine\Binaries\DotNET\IOS
+[2018.12.09-13.48.27:339][796]LogTemp: BranchPath = ZULA/D/Program Files/UnrealEngine/UE_4.21/Engine/Binaries --- GameBranchPath = ZULA/D/Program Files/UnrealEngine/UE_4.21/Engine/Binaries
+[2018.12.09-13.48.27:370][797]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Admin\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.12.09-13.49.21:858][841]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.12.09-13.49.22:888][859]LogSavePackage: Moving 'C:/Users/Admin/Documents/Unreal Projects/ColorGame/Saved/SideScrollerExampleMap_Auto1F3D9FD714D3EEBE5060DF88DBC376119.tmp' to 'C:/Users/Admin/Documents/Unreal Projects/ColorGame/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto1.umap'
+[2018.12.09-13.49.22:919][859]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.693
+[2018.12.09-13.49.22:919][859]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.693
+[2018.12.09-13.49.24:039][923]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.12.09-13.50.40:012][983]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.40:012][983]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.40:013][983]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.40:013][983]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.40:013][983]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.40:013][983]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.40:013][983]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.40:013][983]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.40:014][983]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.40:014][983]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.40:016][983]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.40:016][983]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.40:017][983]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.40:017][983]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.40:017][983]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.40:017][983]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.40:017][983]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.40:018][983]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.40:018][983]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.40:018][983]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.40:997][  8]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.40:998][  8]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.40:998][  8]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.40:998][  8]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.40:998][  8]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.40:999][  8]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.40:999][  8]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.40:999][  8]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.40:999][  8]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.41:000][  8]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.41:002][  8]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.41:002][  8]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.41:002][  8]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.41:002][  8]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.41:002][  8]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.41:002][  8]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.41:003][  8]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.41:003][  8]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.41:003][  8]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.41:003][  8]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.47:902][565]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.47:902][565]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.47:902][565]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.47:902][565]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.47:903][565]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.47:903][565]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.47:903][565]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.47:903][565]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.47:904][565]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.47:904][565]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.47:907][565]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.47:908][565]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.47:908][565]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.47:908][565]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.47:909][565]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.47:910][565]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.47:910][565]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.47:910][565]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.47:911][565]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.47:911][565]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.48:928][595]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.48:928][595]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.48:928][595]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.48:928][595]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.48:929][595]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.48:929][595]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.48:929][595]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.48:929][595]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.48:929][595]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.48:929][595]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.49:998][626]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.49:998][626]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.49:998][626]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.49:999][626]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.49:999][626]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.49:999][626]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.49:999][626]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.49:999][626]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.50:000][626]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.50:000][626]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.50:388][638]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.50:388][638]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.50:389][638]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.50:389][638]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.50:389][638]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.50:390][638]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.50:390][638]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.50:390][638]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.50:390][638]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.50:391][638]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.51:044][657]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.51:044][657]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.51:044][657]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.51:044][657]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.51:044][657]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.51:045][657]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.51:045][657]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.51:045][657]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.51:045][657]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.51:045][657]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.52:135][686]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.52:136][686]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.52:136][686]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.52:136][686]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.52:136][686]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.52:137][686]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.52:137][686]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.52:137][686]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.52:137][686]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.52:138][686]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.52:141][686]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.52:142][686]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.52:142][686]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.52:142][686]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.52:142][686]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.52:142][686]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.52:143][686]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.52:143][686]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.52:143][686]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.52:143][686]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.53:500][784]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.53:500][784]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.53:500][784]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.53:500][784]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.53:501][784]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.53:501][784]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.53:501][784]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.53:501][784]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.53:501][784]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.53:501][784]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.53:504][784]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.53:505][784]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.53:506][784]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.53:507][784]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.53:507][784]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.53:508][784]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.53:508][784]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.53:508][784]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.53:508][784]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.53:509][784]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.56:377][869]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.56:378][869]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.56:378][869]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.56:378][869]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.56:378][869]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.56:378][869]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.56:379][869]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.56:379][869]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.56:379][869]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.50.56:379][869]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-13.52.43:184][ 72]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.12.09-13.52.45:982][299]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2018.12.09-13.52.46:211][300]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.09-13.52.46:211][300]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.09-13.52.46:211][300]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.09-13.52.46:278][300]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2018.12.09-13.52.46:368][301]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2018.12.09-13.52.46:439][302]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2018.12.09-13.52.50:540][487]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.09-13.52.50:902][487]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.52.50:960][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-13.52.51:106][487]PIE: New page: PIE session: SideScrollerExampleMap (Dec 10, 2018, 3:52:50 AM)
+[2018.12.09-13.52.51:413][487]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.12.09-13.52.51:506][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093399s)
+[2018.12.09-13.52.51:507][487]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.12.09-13.52.51:811][487]LogPlayLevel: PIE: World Init took: (0.304398s)
+[2018.12.09-13.52.51:811][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.398298s)
+[2018.12.09-13.52.51:945][487]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-13.52.52:000][487]LogInit: FAudioDevice initialized.
+[2018.12.09-13.52.52:272][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-13.52.52:466][487]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.09-13.52.52:681][487]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2018.12.09-20.52.52
+[2018.12.09-13.52.52:817][487]LogWorld: Bringing up level for play took: 0.173236
+[2018.12.09-13.52.54:085][487]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2018.12.09-13.52.54:116][487]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 3.051
+[2018.12.09-13.52.54:142][487]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.52.55:036][487]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.12.09-13.53.00:744][616]LogShaderCompilers: Display: Shaders left to compile 146
+[2018.12.09-13.53.00:981][621]LogShaderCompilers: Display: Shaders left to compile 136
+[2018.12.09-13.53.01:887][641]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.53.01:897][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-13.53.01:946][641]LogSlate: Window 'ColorGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.09-13.53.02:030][641]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-13.53.02:049][641]LogShaderCompilers: Display: Shaders left to compile 126
+[2018.12.09-13.53.02:049][641]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.53.02:397][642]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.12.09-13.53.07:183][874]LogShaderCompilers: Display: Shaders left to compile 116
+[2018.12.09-13.53.08:430][891]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.12.09-13.53.12:287][994]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.12.09-13.53.12:861][ 20]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.12.09-13.53.17:060][162]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.12.09-13.53.17:414][168]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.12.09-13.53.20:010][214]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.12.09-13.53.24:041][350]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.12.09-13.53.25:829][405]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.09-13.53.31:361][519]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.09-13.53.32:861][561]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.09-13.53.33:190][567]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.09-13.53.51:499][904]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.09-13.53.51:519][904]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.53.51:519][904]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.09-13.53.51:527][904]LogPlayLevel: [PlayLevel] Compiling SideScrollerCharacter before play...
+[2018.12.09-13.53.51:771][904]LogPlayLevel: PlayLevel: Blueprint regeneration took 251 ms (1 blueprints)
+[2018.12.09-13.53.51:771][904]PIE: New page: PIE session: SideScrollerExampleMap (Dec 10, 2018, 3:53:51 AM)
+[2018.12.09-13.53.51:771][904]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.12.09-13.53.51:786][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015095s)
+[2018.12.09-13.53.51:788][904]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.12.09-13.53.51:788][904]LogPlayLevel: PIE: World Init took: (0.001265s)
+[2018.12.09-13.53.51:788][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.016626s)
+[2018.12.09-13.53.51:827][904]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-13.53.51:840][904]LogInit: FAudioDevice initialized.
+[2018.12.09-13.53.51:845][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-13.53.51:875][904]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.09-13.53.51:879][904]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2018.12.09-20.53.51
+[2018.12.09-13.53.51:880][904]LogWorld: Bringing up level for play took: 0.003795
+[2018.12.09-13.53.51:895][904]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.83
+[2018.12.09-13.53.51:921][904]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.54.45:934][196]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.54.45:935][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-13.54.45:958][196]LogSlate: Window 'ColorGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.09-13.54.46:011][196]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-13.54.46:011][196]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.54.46:071][197]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.12.09-13.55.02:218][857]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.12.09-13.55.03:276][942]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.09-13.55.03:304][942]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.55.03:304][942]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-13.55.03:304][942]PIE: New page: PIE session: SideScrollerExampleMap (Dec 10, 2018, 3:55:03 AM)
+[2018.12.09-13.55.03:305][942]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.12.09-13.55.03:321][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016237s)
+[2018.12.09-13.55.03:322][942]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.12.09-13.55.03:323][942]LogPlayLevel: PIE: World Init took: (0.001159s)
+[2018.12.09-13.55.03:323][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.017756s)
+[2018.12.09-13.55.03:361][942]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-13.55.03:374][942]LogInit: FAudioDevice initialized.
+[2018.12.09-13.55.03:378][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-13.55.03:407][942]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.09-13.55.03:409][942]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2018.12.09-20.55.03
+[2018.12.09-13.55.03:409][942]LogWorld: Bringing up level for play took: 0.001949
+[2018.12.09-13.55.03:424][942]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.359
+[2018.12.09-13.55.03:425][942]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.55.12:239][153]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.55.12:239][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-13.55.12:263][153]LogSlate: Window 'ColorGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.09-13.55.12:322][153]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-13.55.12:323][153]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.55.12:410][154]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.12.09-13.55.58:652][417]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2018.12.09-13.55.58:804][417]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2018.12.09-13.55.59:732][431]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2018.12.09-13.55.59:899][431]LogEditorViewport: Clicking on Actor (double click): SideScrollerCharacter_C (SideScrollerCharacter)
+[2018.12.09-13.56.21:988][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-13.56.33:490][141]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.56.33:491][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-13.56.33:491][141]PIE: New page: SIE session: SideScrollerExampleMap (Dec 10, 2018, 3:56:33 AM)
+[2018.12.09-13.56.33:491][141]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.12.09-13.56.33:507][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016006s)
+[2018.12.09-13.56.33:508][141]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.12.09-13.56.33:508][141]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2018.12.09-13.56.33:508][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.017126s)
+[2018.12.09-13.56.33:574][141]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-13.56.33:589][141]LogInit: FAudioDevice initialized.
+[2018.12.09-13.56.33:624][141]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.09-13.56.33:626][141]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2018.12.09-20.56.33
+[2018.12.09-13.56.33:626][141]LogWorld: Bringing up level for play took: 0.001999
+[2018.12.09-13.56.34:033][141]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.968
+[2018.12.09-13.56.34:321][141]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.56.36:909][190]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2018.12.09-13.56.42:340][273]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.56.42:463][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-13.56.42:546][273]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-13.56.42:547][273]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.56.42:585][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-13.56.42:607][274]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.12.09-13.56.47:086][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-13.56.59:401][613]LogRenderer: Reallocating scene render targets to support 1504x900 Format 10 NumSamples 1 (Frame:1).
+[2018.12.09-13.57.06:900][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-13.57.16:266][ 13]LogTemp: Repeating last play command: Simulate
+[2018.12.09-13.57.16:286][ 13]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.57.16:286][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-13.57.16:286][ 13]PIE: New page: SIE session: SideScrollerExampleMap (Dec 10, 2018, 3:57:16 AM)
+[2018.12.09-13.57.16:286][ 13]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.12.09-13.57.16:303][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016860s)
+[2018.12.09-13.57.16:307][ 13]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.12.09-13.57.16:307][ 13]LogPlayLevel: PIE: World Init took: (0.003669s)
+[2018.12.09-13.57.16:307][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.021035s)
+[2018.12.09-13.57.16:349][ 13]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-13.57.16:363][ 13]LogInit: FAudioDevice initialized.
+[2018.12.09-13.57.16:394][ 13]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.09-13.57.16:396][ 13]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2018.12.09-20.57.16
+[2018.12.09-13.57.16:396][ 13]LogWorld: Bringing up level for play took: 0.001901
+[2018.12.09-13.57.16:409][ 13]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.656
+[2018.12.09-13.57.16:412][ 13]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.57.26:022][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.09-13.57.28:989][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-13.57.29:103][920]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.57.29:105][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-13.57.29:152][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-13.57.29:153][920]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.57.29:191][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-13.57.29:213][921]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.12.09-13.57.34:684][ 68]LogTemp: Repeating last play command: Simulate
+[2018.12.09-13.57.34:703][ 68]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.57.34:703][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-13.57.34:703][ 68]PIE: New page: SIE session: SideScrollerExampleMap (Dec 10, 2018, 3:57:34 AM)
+[2018.12.09-13.57.34:703][ 68]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.12.09-13.57.34:719][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015443s)
+[2018.12.09-13.57.34:720][ 68]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.12.09-13.57.34:720][ 68]LogPlayLevel: PIE: World Init took: (0.001261s)
+[2018.12.09-13.57.34:721][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.017010s)
+[2018.12.09-13.57.34:758][ 68]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-13.57.34:772][ 68]LogInit: FAudioDevice initialized.
+[2018.12.09-13.57.34:808][ 68]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.09-13.57.34:811][ 68]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2018.12.09-20.57.34
+[2018.12.09-13.57.34:811][ 68]LogWorld: Bringing up level for play took: 0.001933
+[2018.12.09-13.57.35:175][ 68]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.11
+[2018.12.09-13.57.35:178][ 68]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.58.03:248][104]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.58.03:249][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-13.58.03:625][104]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-13.58.03:625][104]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.58.03:669][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-13.58.03:714][105]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.12.09-13.58.11:270][292]LogTemp: Repeating last play command: Simulate
+[2018.12.09-13.58.11:293][292]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.58.11:293][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-13.58.11:293][292]PIE: New page: SIE session: SideScrollerExampleMap (Dec 10, 2018, 3:58:11 AM)
+[2018.12.09-13.58.11:293][292]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.12.09-13.58.11:308][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014778s)
+[2018.12.09-13.58.11:309][292]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.12.09-13.58.11:310][292]LogPlayLevel: PIE: World Init took: (0.001313s)
+[2018.12.09-13.58.11:310][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.016378s)
+[2018.12.09-13.58.11:351][292]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-13.58.11:365][292]LogInit: FAudioDevice initialized.
+[2018.12.09-13.58.11:399][292]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.09-13.58.11:401][292]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2018.12.09-20.58.11
+[2018.12.09-13.58.11:402][292]LogWorld: Bringing up level for play took: 0.001869
+[2018.12.09-13.58.11:415][292]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.35
+[2018.12.09-13.58.11:418][292]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.58.20:102][508]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.58.20:102][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-13.58.20:174][508]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-13.58.20:174][508]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.58.20:214][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-13.58.20:270][509]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.12.09-13.58.21:398][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-13.58.21:539][536]LogTemp: Repeating last play command: Simulate
+[2018.12.09-13.58.21:561][536]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.58.21:561][536]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-13.58.21:561][536]PIE: New page: SIE session: SideScrollerExampleMap (Dec 10, 2018, 3:58:21 AM)
+[2018.12.09-13.58.21:561][536]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.12.09-13.58.21:577][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015072s)
+[2018.12.09-13.58.21:577][536]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.12.09-13.58.21:578][536]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2018.12.09-13.58.21:578][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.016024s)
+[2018.12.09-13.58.21:624][536]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-13.58.21:637][536]LogInit: FAudioDevice initialized.
+[2018.12.09-13.58.21:672][536]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.09-13.58.21:674][536]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2018.12.09-20.58.21
+[2018.12.09-13.58.21:674][536]LogWorld: Bringing up level for play took: 0.002170
+[2018.12.09-13.58.21:688][536]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.623
+[2018.12.09-13.58.21:691][536]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-13.58.46:617][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-13.59.43:895][ 40]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.12.09-13.59.44:280][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-13.59.44:307][ 40]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2018.12.09-14.00.02:511][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-14.00.34:165][ 20]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-14.00.34:166][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-14.00.34:212][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-14.00.34:213][ 20]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-14.00.34:249][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-14.00.34:307][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.12.09-14.01.17:488][425]LogEditorTransaction: Undo Move Node
+[2018.12.09-14.01.17:811][450]LogEditorTransaction: Undo Add Node
+[2018.12.09-14.01.18:519][522]LogEditorTransaction: Undo Delete current selection
+[2018.12.09-14.01.54:683][544]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.12.09-14.02.14:123][687]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.12.09-14.02.17:281][876]LogTemp: Repeating last play command: Simulate
+[2018.12.09-14.02.17:312][876]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-14.02.17:312][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-14.02.17:312][876]PIE: New page: SIE session: SideScrollerExampleMap (Dec 10, 2018, 4:02:17 AM)
+[2018.12.09-14.02.17:312][876]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.12.09-14.02.17:328][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015911s)
+[2018.12.09-14.02.17:329][876]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.12.09-14.02.17:329][876]LogPlayLevel: PIE: World Init took: (0.001726s)
+[2018.12.09-14.02.17:329][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.017870s)
+[2018.12.09-14.02.17:369][876]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-14.02.17:383][876]LogInit: FAudioDevice initialized.
+[2018.12.09-14.02.17:415][876]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.09-14.02.17:417][876]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2018.12.09-21.02.17
+[2018.12.09-14.02.17:417][876]LogWorld: Bringing up level for play took: 0.001865
+[2018.12.09-14.02.17:430][876]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.365
+[2018.12.09-14.02.17:432][876]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-14.02.22:145][370]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-14.02.22:146][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-14.02.22:188][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-14.02.22:188][370]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-14.02.22:226][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-14.02.22:266][371]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.12.09-14.02.26:059][730]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-14.02.26:059][730]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-14.02.26:060][730]PIE: New page: PIE session: SideScrollerExampleMap (Dec 10, 2018, 4:02:26 AM)
+[2018.12.09-14.02.26:060][730]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.12.09-14.02.26:076][730]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016187s)
+[2018.12.09-14.02.26:077][730]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.12.09-14.02.26:077][730]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2018.12.09-14.02.26:077][730]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.017107s)
+[2018.12.09-14.02.26:117][730]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-14.02.26:131][730]LogInit: FAudioDevice initialized.
+[2018.12.09-14.02.26:134][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-14.02.26:166][730]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.09-14.02.26:169][730]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2018.12.09-21.02.26
+[2018.12.09-14.02.26:169][730]LogWorld: Bringing up level for play took: 0.002307
+[2018.12.09-14.02.26:183][730]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 1.118
+[2018.12.09-14.02.26:183][730]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-14.02.30:277][828]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-14.02.30:278][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-14.02.30:303][828]LogSlate: Window 'ColorGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.09-14.02.30:365][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-14.02.30:365][828]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-14.02.30:457][829]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.12.09-14.03.35:443][676]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.12.09-14.03.39:205][ 78]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.09-14.03.39:236][ 78]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-14.03.39:236][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-14.03.39:237][ 78]PIE: New page: PIE session: SideScrollerExampleMap (Dec 10, 2018, 4:03:39 AM)
+[2018.12.09-14.03.39:237][ 78]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.12.09-14.03.39:252][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015204s)
+[2018.12.09-14.03.39:254][ 78]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.12.09-14.03.39:255][ 78]LogPlayLevel: PIE: World Init took: (0.002530s)
+[2018.12.09-14.03.39:255][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.018102s)
+[2018.12.09-14.03.39:293][ 78]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-14.03.39:307][ 78]LogInit: FAudioDevice initialized.
+[2018.12.09-14.03.39:311][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-14.03.39:345][ 78]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.09-14.03.39:348][ 78]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2018.12.09-21.03.39
+[2018.12.09-14.03.39:348][ 78]LogWorld: Bringing up level for play took: 0.002524
+[2018.12.09-14.03.39:362][ 78]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.297
+[2018.12.09-14.03.39:363][ 78]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-14.03.44:512][202]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-14.03.44:512][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-14.03.44:539][202]LogSlate: Window 'ColorGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.09-14.03.44:596][202]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-14.03.44:597][202]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-14.03.44:688][203]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.12.09-14.03.51:689][955]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-14.03.51:690][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-14.03.51:690][955]PIE: New page: SIE session: SideScrollerExampleMap (Dec 10, 2018, 4:03:51 AM)
+[2018.12.09-14.03.51:690][955]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.12.09-14.03.51:705][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014929s)
+[2018.12.09-14.03.51:706][955]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.12.09-14.03.51:706][955]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2018.12.09-14.03.51:706][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.015834s)
+[2018.12.09-14.03.51:745][955]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-14.03.51:759][955]LogInit: FAudioDevice initialized.
+[2018.12.09-14.03.51:793][955]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.09-14.03.51:795][955]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2018.12.09-21.03.51
+[2018.12.09-14.03.51:795][955]LogWorld: Bringing up level for play took: 0.002116
+[2018.12.09-14.03.51:808][955]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.743
+[2018.12.09-14.03.51:811][955]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-14.03.53:957][190]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-14.03.53:958][190]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-14.03.53:958][190]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-14.03.53:958][190]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-14.03.53:958][190]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-14.03.53:958][190]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-14.03.53:958][190]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-14.03.53:959][190]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-14.03.53:959][190]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-14.03.53:959][190]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-14.03.53:962][190]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-14.03.53:963][190]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-14.03.53:963][190]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-14.03.53:963][190]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-14.03.53:963][190]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-14.03.53:963][190]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-14.03.53:964][190]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-14.03.53:964][190]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-14.03.53:965][190]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-14.03.53:966][190]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.09-14.04.04:914][607]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-14.04.04:914][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-14.04.04:986][607]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-14.04.04:986][607]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-14.04.05:026][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-14.04.05:081][608]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.12.09-14.04.10:782][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-14.04.10:924][732]LogTemp: Repeating last play command: Simulate
+[2018.12.09-14.04.10:948][732]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-14.04.10:948][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-14.04.10:948][732]PIE: New page: SIE session: SideScrollerExampleMap (Dec 10, 2018, 4:04:10 AM)
+[2018.12.09-14.04.10:948][732]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.12.09-14.04.10:963][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014098s)
+[2018.12.09-14.04.10:963][732]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.12.09-14.04.10:964][732]LogPlayLevel: PIE: World Init took: (0.001064s)
+[2018.12.09-14.04.10:964][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.015399s)
+[2018.12.09-14.04.11:009][732]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-14.04.11:023][732]LogInit: FAudioDevice initialized.
+[2018.12.09-14.04.11:058][732]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.09-14.04.11:060][732]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2018.12.09-21.04.11
+[2018.12.09-14.04.11:060][732]LogWorld: Bringing up level for play took: 0.002231
+[2018.12.09-14.04.11:073][732]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.008
+[2018.12.09-14.04.11:076][732]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-14.04.40:109][349]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-14.05.07:198][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-14.05.20:432][398]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-14.05.37:222][725]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-14.05.37:348][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-14.05.37:388][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-14.05.37:388][725]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.09-14.05.37:428][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-14.05.37:448][726]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.12.09-14.05.39:721][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-14.06.26:889][787]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.12.09-14.06.53:579][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.09-14.06.59:294][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-14.07.08:657][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-14.07.58:866][652]LogEditorTransaction: Undo Set Location
+[2018.12.09-14.07.59:327][652]LogActorComponent: ~FComponentReregisterContext: (/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerCharacter_78.CollisionCylinder) Component already registered.
+[2018.12.09-14.07.59:347][652]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2018.12.09-14.07.59:827][652]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.468 s
+[2018.12.09-14.07.59:843][652]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.09-14.07.59:843][652]LogOutputDevice: Error: 
+[2018.12.09-14.07.59:843][652]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2018.12.09-14.07.59:843][652]LogOutputDevice: Error: 
+[2018.12.09-14.07.59:843][652]LogOutputDevice: Error: Stack: 
+[2018.12.09-14.07.59:843][652]LogOutputDevice: Error: [Callstack] 0x00007ff8ff529996 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-14.07.59:843][652]LogOutputDevice: Error: [Callstack] 0x00007ff8ff4cf8ba UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-14.07.59:843][652]LogOutputDevice: Error: [Callstack] 0x00007ff8f7affa42 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.12.09-14.07.59:843][652]LogOutputDevice: Error: [Callstack] 0x00007ff8f7b00795 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.12.09-14.07.59:843][652]LogOutputDevice: Error: [Callstack] 0x00007ff8f7aad4c1 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.12.09-14.07.59:843][652]LogOutputDevice: Error: [Callstack] 0x00007ff9125efe72 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-14.07.59:843][652]LogOutputDevice: Error: [Callstack] 0x00007ff9125b4809 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff91265c40e UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff912469ca1 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff912400fd4 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff8fe818444 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff8fe57b7cf UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff8fe550299 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff8fe91cd43 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff8fe8fec40 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff8fe8a8744 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff8fe905baa UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff8fe52ef3b UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff8fe5616ee UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff8fe582c2d UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff8ff4cfeed UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff8ff4fac06 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff8ff4e131c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff8ff54b337 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff8ff58f63f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff8ff52717f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff8fe550fe8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff91240206f UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff912444c8e UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff8ffda6bee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff8ffd94b88 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff9123c694c UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff91244697c UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff912439a36 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff9150cdaa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff9150c0de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff9150d01eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff9150bca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff94e996d41 USER32.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff94e996713 USER32.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff9150d1746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff681c45546 UE4Editor.exe!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff681c5596c UE4Editor.exe!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff681c559ea UE4Editor.exe!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff681c648da UE4Editor.exe!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff681c6659a UE4Editor.exe!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff94ca23034 KERNEL32.DLL!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: [Callstack] 0x00007ff94ec51471 ntdll.dll!UnknownFunction []
+[2018.12.09-14.07.59:844][652]LogOutputDevice: Error: 
+[2018.12.09-14.07.59:851][652]LogStats:                SubmitErrorReport -  0.000 s
